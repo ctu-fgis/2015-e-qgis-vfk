@@ -1,1 +1,15 @@
-# 2015-e-qgis-vfk
+# Zásuvný plugin QGIS pro katastrální data
+
+Semestrální projekt předmětu 155YFSG (akademický rok 2014/2015)
+
+* Skupina E
+
+## Autoři
+
+* Urik
+* Bambula
+* Dlesk 
+
+# Zadání
+
+TODO
