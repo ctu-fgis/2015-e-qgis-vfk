@@ -11,5 +11,6 @@ Semestrální projekt předmětu 155YFSG (akademický rok 2014/2015)
 * Dlesk 
 
 # Zadání
-zkouska github push..
+Rozsirit funkcionalitu Zasuvného plugin QGIS pro katastrální data. Dale tento 
+
 TODO
