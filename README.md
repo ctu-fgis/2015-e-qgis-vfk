@@ -11,5 +11,5 @@ Semestrální projekt předmětu 155YFSG (akademický rok 2014/2015)
 * Dlesk 
 
 # Zadání
-
+zkouska github push..
 TODO
