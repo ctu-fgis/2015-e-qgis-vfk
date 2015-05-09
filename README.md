@@ -11,6 +11,4 @@ Semestrální projekt předmětu 155YFSG (akademický rok 2014/2015)
 * Dlesk 
 
 # Zadání
-Rozsirit funkcionalitu Zasuvného plugin QGIS pro katastrální data. Dale tento 
-
-TODO
+Projekt zahrnuje přepsání existujícího zásuvného pluginu pro QGIS pro zobrazování dat z katastru nemovitostí. Funkcionalita tohoto pluginu bude dále rozšířena o vhodné funkcionality.
