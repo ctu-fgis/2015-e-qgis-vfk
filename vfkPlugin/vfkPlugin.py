@@ -164,7 +164,7 @@ class vfkPlugin:
         icon_path = ':/icon.png'
         self.add_action(
             icon_path,
-            text=self.tr(u'vfkPlugin'),
+            text=self.tr(u'VFK Plugin'),
             callback=self.run,
             parent=self.iface.mainWindow())
 
